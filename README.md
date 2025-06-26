@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://en.pronouns.page/@wintersoldi3er">𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬 </a>
 
-<!--
-**WINTERSOLDI3ER/wintersoldi3er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://files.catbox.moe/2ztppc.webp" width="400" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  ════════════════════════════════════════
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WINTERSOLDI3ER-username&color=a6a6a6&style=plastic&label=🦾&abreviated=true">
+</p>
